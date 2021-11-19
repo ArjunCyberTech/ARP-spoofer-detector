@@ -7,4 +7,4 @@ python3 arp-spoof-detector.py --help
 
 **How to Use the Script**
 
-python3 arp-spoof-detector.py -i Interface-Name 
+python3 arp-spoof-detector.pyc -i Interface-Name 
